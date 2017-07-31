@@ -1,0 +1,9 @@
+D:\gko\linkinSiirrin\linkinSiirrin\bin\Debug\linkinSiirrin.exe
+D:\gko\linkinSiirrin\linkinSiirrin\bin\Debug\linkinSiirrin.pdb
+D:\gko\linkinSiirrin\linkinSiirrin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\gko\linkinSiirrin\linkinSiirrin\obj\x86\Debug\linkinSiirrin.exe
+D:\gko\linkinSiirrin\linkinSiirrin\obj\x86\Debug\linkinSiirrin.pdb
+D:\ohjelmointi\LinkOpener\linkinSiirrin\linkinSiirrin\obj\x86\Debug\linkinSiirrin.exe
+D:\ohjelmointi\LinkOpener\linkinSiirrin\linkinSiirrin\obj\x86\Debug\linkinSiirrin.pdb
+D:\ohjelmointi\LinkOpener\linkinSiirrin\obj\x86\Debug\linkinSiirrin.exe
+D:\ohjelmointi\LinkOpener\linkinSiirrin\obj\x86\Debug\linkinSiirrin.pdb
